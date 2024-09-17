@@ -1,0 +1,17 @@
+{
+  "name": "movie-parsing-api",
+  "version": "1.0.0",
+  "license": "ISC",
+  "author": "Felipe Lacerda Fernandes de Assis",
+  "description": "Esta API é parte de um teste técnico voltado para a vaga de estagiário(a) de backend com Node.js. O objetivo é consumir uma API de metadados de filmes e retornar uma lista de filmes com informações formatadas de acordo com os requisitos fornecidos.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "movies",
+    "parsing",
+    "Node.js",
+    "API",
+    "backend"
+  ],
+  "scripts": {}
+}
