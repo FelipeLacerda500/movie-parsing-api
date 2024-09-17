@@ -1,1 +1,1 @@
-export * from './make-env-var-validator';
+export * from './make-env-var.validator';
