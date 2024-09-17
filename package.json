@@ -17,7 +17,10 @@
     "dev": "tsx watch src/server/server.ts",
     "precommit-lint": "lint-staged",
     "prepare": "husky",
-    "build": "tsup src --out-dir dist --minify --clean"
+    "build": "tsup src --out-dir dist --minify --clean",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:ui": "vitest --ui"
   },
   "devDependencies": {
     "@commitlint/cli": "19.5.0",
